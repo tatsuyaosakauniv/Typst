@@ -1,4 +1,4 @@
-#import "preprint_format.typ": *
+#import "./preprint_format.typ": *
 // #import "@preview/physica:0.9.2": *
 // #import "@preview/chem-par:0.0.1": *
 

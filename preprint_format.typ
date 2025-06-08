@@ -182,16 +182,14 @@
   )
 
   // ページのプロパティを設定
-  context {
     set page(
       columns: 2,
       paper: paper-size,
       margin: (bottom: 15mm, top: 15mm, left: 15mm, right: 15mm),
       footer: [
-        #align(center)[#counter(page).display("1")]
+        // #align(center)[#counter(page).display("1")]
       ],
     )
-  }
 
   counter(page).update(1)
 
