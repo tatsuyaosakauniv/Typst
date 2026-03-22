@@ -1,4 +1,4 @@
-#import "thesis_format.typ": *
+#import "format/thesis_format.typ": *
 #import "@preview/numbly:0.1.0": numbly
 // #import "@preview/physica:0.9.2"
 #show: master_thesis.with(

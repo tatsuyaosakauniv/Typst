@@ -1,4 +1,4 @@
-#import "./preprint_format.typ": *
+#import "format/preprint_format.typ": *
 #show: preprint.with(
   presentation: "中間発表",
   title: "分子動力学シミュレーションと機械学習を利用した固液界面熱流束ゆらぎの予測",

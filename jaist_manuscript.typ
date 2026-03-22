@@ -1,4 +1,4 @@
-#import "./preprint_format.typ": *
+#import "format/preprint_format.typ": *
 
 #show: preprint.with(
   presentation: [口頭発表の原稿],

@@ -1,4 +1,4 @@
-#import "./preprint_format.typ": *
+#import "format/preprint_format.typ": *
 #show: preprint.with(
   presentation: [小論文],
   title: "RPGのラスボス撃破時におけるクライマックス演出の最適化に関する研究",
